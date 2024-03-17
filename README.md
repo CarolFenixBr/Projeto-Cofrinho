@@ -1,5 +1,5 @@
 # Projeto-Cofrinho
-Projeto desenvolvido na disciplina de POO (Programação orientada a objetos)
+Projeto desenvolvido na disciplina de POO (Programação orientada a objetos) durante a faculdade de Engenharia de Software
 ## ATIVIDADE PRÁTICA
 
 ### OBJETIVO
